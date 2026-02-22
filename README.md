@@ -6,6 +6,8 @@ Crawl websites and analyze page performance — sizes, resources, and optimizati
 
 **Live Demo:** [https://perf-runner.spider.cloud](https://perf-runner.spider.cloud)
 
+![Spider Perf Runner](./example.png)
+
 ## Features
 
 - Crawl any website using Spider Cloud API
